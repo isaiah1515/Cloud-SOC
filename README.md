@@ -36,23 +36,23 @@ The "AFTER" metrics:
 Network Security Groups were hardened by blocking ALL traffic with the exception of my admin workstation, and all other resources were protected by their built-in firewalls as well as Private Endpoint.
 
 ## Attack Maps Before Hardening / Security Controls
-![NSG Allowed Inbound Malicious Flows](https://i.imgur.com/1qvswSX.png)<br>
+![NSG Malicious Allowed In - Insecure 24 Hours](https://github.com/isaiah1515/Cloud-SOC/assets/142617629/faddee27-f474-46e7-9722-f77211a2f788)<br>
 ![Linux Syslog Auth Failures](https://i.imgur.com/G1YgZt6.png)<br>
 ![Windows RDP/SMB Auth Failures](https://i.imgur.com/ESr9Dlv.png)<br>
 
 ## Metrics Before Hardening / Security Controls
 
 The following table shows the metrics we measured in our insecure environment for 24 hours:
-Start Time 2023-09-15 17:04:29
-Stop Time 2023-09-16 17:04:29
+Start Time 2023-09-28 15:25:10
+Stop Time 2023-09-29 15:25:10
 
 | Metric                   | Count
 | ------------------------ | -----
-| SecurityEvent            | 19470
-| Syslog                   | 3028
-| SecurityAlert            | 10
-| SecurityIncident         | 348
-| AzureNetworkAnalytics_CL | 843
+| SecurityEvent            | 123289
+| Syslog                   | 20714
+| SecurityAlert            | 6
+| SecurityIncident         | 73
+| AzureNetworkAnalytics_CL | 103
 
 ## Attack Maps Before Hardening / Security Controls
 
