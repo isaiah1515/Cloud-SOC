@@ -37,8 +37,10 @@ Network Security Groups were hardened by blocking ALL traffic with the exception
 
 ## Attack Maps Before Hardening / Security Controls
 ![NSG Malicious Allowed In - Insecure 24 Hours](https://github.com/isaiah1515/Cloud-SOC/assets/142617629/faddee27-f474-46e7-9722-f77211a2f788)<br>
-![Linux Syslog Auth Failures](https://i.imgur.com/G1YgZt6.png)<br>
-![Windows RDP/SMB Auth Failures](https://i.imgur.com/ESr9Dlv.png)<br>
+![Linux SSH Authentication Fail - Insecure 24 hours](https://github.com/isaiah1515/Cloud-SOC/assets/142617629/11d124e4-94fe-4af0-8327-ccfd4bea3faf)<br>
+![Windows RDP Authentication Fail - Insecure 24 hours](https://github.com/isaiah1515/Cloud-SOC/assets/142617629/00d1a33f-3c6b-4317-b9ed-bd9f8af98e44)<br>
+![MSSQL Authentication Fail - Insecure 24 hours](https://github.com/isaiah1515/Cloud-SOC/assets/142617629/614ca705-feac-4f50-9600-82564eaa2ec6)<br>
+
 
 ## Metrics Before Hardening / Security Controls
 
