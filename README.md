@@ -36,11 +36,11 @@ The "AFTER" metrics:
 Network Security Groups were hardened by blocking ALL traffic with the exception of my admin workstation, and all other resources were protected by their built-in firewalls as well as Private Endpoint.
 
 ## Attack Maps Before Hardening / Security Controls
-![NSG Malicious Allowed In](https://github.com/isaiah1515/Cloud-SOC/assets/142617629/faddee27-f474-46e7-9722-f77211a2f788)<br>
+NSG Malicious Allowed In ![NSG Malicious Allowed In](https://github.com/isaiah1515/Cloud-SOC/assets/142617629/faddee27-f474-46e7-9722-f77211a2f788)<br>
 ![Linux SSH Authentication Fail](https://github.com/isaiah1515/Cloud-SOC/assets/142617629/11d124e4-94fe-4af0-8327-ccfd4bea3faf)<br>
 ![Windows RDP Authentication Fail - Insecure 24 hours](https://github.com/isaiah1515/Cloud-SOC/assets/142617629/00d1a33f-3c6b-4317-b9ed-bd9f8af98e44)<br>
 ![MSSQL Authentication Fail](https://github.com/isaiah1515/Cloud-SOC/assets/142617629/614ca705-feac-4f50-9600-82564eaa2ec6)<br>
-![NSG Allowed Inbound Malicious Flows](https://i.imgur.com/1qvswSX.png)<br>
+
 
 ## Metrics Before Hardening / Security Controls
 
