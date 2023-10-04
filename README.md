@@ -17,7 +17,8 @@ In this lab, I build a honeynet in Azure and ingest log sources from various res
 
 
 ## Architecture After Hardening / Security Controls
-![Architecture Diagram](https://github.com/isaiah1515/Cloud-SOC/assets/142617629/eae97192-4b5d-48fb-b4a3-e0510b42a95c)
+![SOC + Honeynet in Azure](https://github.com/isaiah1515/Cloud-SOC/assets/142617629/6e37e7c3-b59a-4c58-ba19-9f06834ee1ca)
+
 
 The architecture of the honeynet in Azure consists of the following components:
 
